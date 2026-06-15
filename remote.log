@@ -1,0 +1,1 @@
+f1965136-f96a-4b59-98c2-56aa49f3316b autoenable=true bucket=cneuromod.mutemusic.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mutemusic.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544089s
